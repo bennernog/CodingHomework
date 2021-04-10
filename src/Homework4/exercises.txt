@@ -1,0 +1,17 @@
+    4.1 – Creating Sphere Class using Java OOP principles, Classes, and Objects (and Methods and Math Class)
+    Design and implement a class called Sphere that contains instance data that represents the sphere’s diameter.
+    Define the Sphere constructor to accept and initialize the diameter, and include getter and setter methods
+    for the diameter.
+    Include methods that calculate and return the volume and surface area of the sphere. Create a driver class
+    called MultiSphere, whose main method instantiates and updates several Sphere objects.
+    Volume = (4/3) * Pi * r(to the power of 3)
+    Surface = 4 * Pi * r(to the power of 2)
+    >>> Sphere >>> MultiSphere
+
+
+    4.2 – Creating Dog Class (Java Classes, Objects, Methods)
+    Design and implement a class called Dog that contains instance data that represents the dog’s name and age.
+    Define the Dog constructor to accept and initialize instance data.
+    Include a method to compute and return the age of the dog in “person years” (multiply by 7).
+    Include a toString method that returns a one-line description of the dog.
+    Create a driver class called Kennel, whose main method instantiates and updates several Dog objects.

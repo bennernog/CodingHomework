@@ -1,0 +1,58 @@
+    Homework 3.1 - String Manipulations
+    Write a program that prompts for and reads the user’s first and last name (separately).
+    Then print a string composed of the first letter of the user’s first name, followed by
+    the first five characters of the user’s last name, followed by a random number
+    in the range 10 to 99. Assume the last name is at least five letters long.
+    >>> StringManipulations.class
+
+    Homework 3.2 – Using The Math Class
+    Write a program that prints the sum of cubes.
+    Prompt for and read two integer values and print the sum
+    of each value raised to the third power
+    >>> UsingTheMathClass
+
+    Homework 3.3 – Using The Random Class
+    Write a program that creates and prints a random phone number of the form XXX-XXX-XXXX.
+    Include the dashes in the output. Do not let the first three digits contain an 8 or 9
+    (but don’t be more restrictive than that),
+    and make sure that the second set of three digits is no greater than 742.
+    >>> UsingTheRandomClass
+
+    Homework 3.4 – Distance Between Two Points using Math Class and java string format
+    Write an application that reads the (x,y) coordinates for two points. Compute the distance
+    between the two points using a formula
+    >>> DistanceBetweenTwoPoints
+
+    Homework 3.5 – Volume and Surface of Sphere using Math Class and java string format
+    Write an app that reads the radius of a sphere and prints its volume and surface area.
+    Print the output to four decimal places.
+    >>> VolumeAndSurfaceOfSphere
+
+    Homework 3.6 – Heron’s Formula (Area of triangle) Using The Math Class and java string format
+    Write an app that reads the lengths of the sides of a triangle from the user. Compute the area
+    of the triangle using Heron’s formula in which ‘s’ represents half of the perimeter of the triangle,
+    and ‘a’ and ‘b’ and ‘c’ are the lengths of the three sides. Print area to three decimal places.
+    >>> HeronsFormula
+
+    Homework 3.7: Calculating Sine, Cosine, and Tan using Math and Random classes
+    Write an app that generates a random integer in the range of 20 to 40 inclusive,
+    and displays the sine, cosine, and tangent of that number
+    >>> CalculatingSinCosTan
+
+    Homework 3.8: Calculating Volume and Surface of a Cylinder using Java Math class
+    Write an app that generates a random integer radius (r) and height (h) for a cylinder in the
+    range 1 to 10, inclusive, and then computes the volume and surface area of the cylinder.
+    >>> VolumeAndSurfaceOfCylinder
+
+    Homework 3.9: Displaying Name in Java Swing Labels
+    Write an app that displays a frame containing two labels that display your name,
+    one for your first name and one for your last.
+    >>> JavaSwingLabels
+
+    3-10: Displaying Images in Java Swing Panels
+    Write an app that displays a frame containing two panels. Each panel should contain two images
+    (use 4 unique images of your choice). fix the size of the first panel so that both of its images
+    remain side by side. Allow the other panel to change size as needed.
+    >>> JavaSwingPanels
+
+
